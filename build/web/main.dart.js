@@ -37332,7 +37332,7 @@ case 2:return A.N(o.at(-1),r)}})
 return A.P($async$u8,r)},
 lX(a,b){var s=null
 return A.jP(new A.Er(A.aq(217,B.k.C()>>>16&255,B.k.C()>>>8&255,B.k.C()&255),3,new A.cy(A.mn(12),B.q),new A.dE(B.lz,A.aBm(b,A.aoh(s,B.kc,s,s,s,s,s,s,!0,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,s,B.Pl,a,!0,!0,s,s,s,s,s,s,s,s,s,s,s,s,s),B.M8,new A.abF(a)),s),s),s,350)},
-P(a){var s,r,q,p,o=this,n=null,m=A.aAe(n,n,new A.uc("assets/images/crop.png",n,n)),l=A.UT(n,n,B.R,A.aq(89,B.l.C()>>>16&255,B.l.C()>>>8&255,B.l.C()&255),n,n,n,n,n,n,n,n,n),k=o.lX("Nitrogen (N) \u2013 kg/ha",o.e),j=o.lX("Phosphorus (P) \u2013 kg/ha",o.f),i=o.lX("Potassium (K) \u2013 kg/ha",o.r),h=o.lX("Temperature (\xb0C)",o.w),g=o.lX("Humidity (%)",o.x),f=o.lX("pH Value",o.y),e=o.lX("Rainfall (mm)",o.z),d=A.aq(B.d.au(229.5),B.k.C()>>>16&255,B.k.C()>>>8&255,B.k.C()&255),c=A.mn(12),b=A.c([new A.d5(0,B.dn,A.aq(64,B.ct.C()>>>16&255,B.ct.C()>>>8&255,B.ct.C()&255),B.Hs,6)],t.sq)
+P(a){var s,r,q,p,o=this,n=null,m=A.aAe(n,n,new A.uc("assets/images/crop.png",n,n)),l=A.UT(n,n,B.R,A.aq(89,B.l.C()>>>16&255,B.l.C()>>>8&255,B.l.C()&255),n,n,n,n,n,n,n,n,n),k=o.lX("Nitrogen (N) \u2013 mg/kg",o.e),j=o.lX("Phosphorus (P) \u2013 mg/kg",o.f),i=o.lX("Potassium (K) \u2013 mg/kg",o.r),h=o.lX("Temperature (\xb0C)",o.w),g=o.lX("Humidity (%)",o.x),f=o.lX("pH Value",o.y),e=o.lX("Rainfall (mm)",o.z),d=A.aq(B.d.au(229.5),B.k.C()>>>16&255,B.k.C()>>>8&255,B.k.C()&255),c=A.mn(12),b=A.c([new A.d5(0,B.dn,A.aq(64,B.ct.C()>>>16&255,B.ct.C()>>>8&255,B.ct.C()&255),B.Hs,6)],t.sq)
 if(o.as)s=B.Lf
 else{s=o.Q
 s=A.lz(s==null?"\u2014":s,n,n,n,B.Pd,B.h5,n)}r=t.F
