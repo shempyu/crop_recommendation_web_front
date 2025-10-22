@@ -162,9 +162,9 @@ class _CropPredictPageState extends State<CropPredictPage> {
                       ),
                       const SizedBox(height: 18),
 
-                      _inputCard("Nitrogen (N) – kg/ha", nCtrl),
-                      _inputCard("Phosphorus (P) – kg/ha", pCtrl),
-                      _inputCard("Potassium (K) – kg/ha", kCtrl),
+                      _inputCard("Nitrogen (N) – mg/kg", nCtrl),
+                      _inputCard("Phosphorus (P) – mg/kg", pCtrl),
+                      _inputCard("Potassium (K) – mg/kg", kCtrl),
                       _inputCard("Temperature (°C)", tempCtrl),
                       _inputCard("Humidity (%)", humidityCtrl),
                       _inputCard("pH Value", phCtrl),
